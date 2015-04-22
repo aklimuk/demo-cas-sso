@@ -1,0 +1,8 @@
+Projects are preconfigured to be run on localhost:8080.
+
+Deploy both projects to some web container and open URLs:
+  http://localhost:8080/flights-web/
+  http://localhost:8080/hotels-web/
+
+If your hostname or port differs, adjust web.xml in both projects accordingly.
+
